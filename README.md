@@ -1,5 +1,5 @@
 
-This is the implementation of an algorithm to do classification when the distribution of the data generating process changes with time [to be published]. Please refer to https://experiencor.github.io/ftrl_adp.html for details. 
+This is the implementation of an algorithm to do classification when the distribution of the data generating process changes with time [to be published, https://experiencor.github.io/ftrl_adp.html]. 
 
 In the following gif, the blue line signifies the decision line to separate two classes. The decision line is adaptive to the centers of the classes, which shift in time.
 
